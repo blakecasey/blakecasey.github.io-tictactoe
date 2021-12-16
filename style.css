@@ -1,0 +1,15 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 20px;
+    margin: auto;
+    width: 40vw;
+    height: 70vh;
+}
+.square{
+    text-align: center;
+    font-size: 2em;
+}
+.text{
+    text-align: center;
+}
